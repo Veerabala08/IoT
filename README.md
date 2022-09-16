@@ -1,2 +1,2 @@
 # IoT
-IoT Projects
+IoT Arduino projects from the 7 days iot workshop 
